@@ -14,7 +14,7 @@ Decision Tree, K nearest neighbour
 
 ### 3. Regression
 
-Train-test split, K-fold cross validation, Variable importance plot, xgboost, LightGBM, Extra Tree, Random Forest, Logistic Regression, 
+Train-test split, K-fold cross validation, Variable importance plot, xgboost, LightGBM, Extra Tree, Random Forest, Linear Regression, 
 Decision Tree, K nearest neighbour
 
 
